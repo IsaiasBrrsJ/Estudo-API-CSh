@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "H451FtoHEjC/9tGU2sjsocv7XhmZjW4UsXMrFNV3vXCGQfV4Z7MtQ/F53mpbZ0prNX8f0S6rAk80Gh5JzJ8NFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\OneDrive - UFN - Universidade Franciscana\\CursoC#\\Aula_Api_Exemplo\\api_aula\\consumidor.api02\\consumidor.api02.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\flurl\\3.0.7\\flurl.3.0.7.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\flurl.http\\3.2.4\\flurl.http.3.2.4.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Administrador\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
